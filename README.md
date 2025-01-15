@@ -2,6 +2,7 @@
 # Turkey High School List
 
 This repository contains a list of high schools in Turkey.
+Updated on 2025-01-15
 
 ## Introduction
 
