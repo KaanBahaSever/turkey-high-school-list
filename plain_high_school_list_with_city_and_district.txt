@@ -3474,7 +3474,8 @@ HATAY - ERZİN - Bahri Çelen Anadolu Lisesi
 HATAY - ERZİN - Erzin Anadolu İmam Hatip Lisesi
 HATAY - ERZİN - Erzin Fen Lisesi
 HATAY - ERZİN - Erzin Yeşilkent Anadolu Lisesi
-HATAY - ERZİN - Şehit Oğuzcan Ekiz Anadolu
+HATAY - ERZİN - Şehit Oğuzcan Ekiz Anadolu
+
 İmam Hatip Lisesi
 HATAY - HASSA - Akbez Mesleki ve Teknik Anadolu Lisesi
 HATAY - HASSA - Ardıçlı Anadolu Lisesi
